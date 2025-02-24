@@ -22,6 +22,9 @@ public class SolarSystem {
         GROS.color="green";
         GROS.radius="463537miles";
 
+        FeatureMoon white = new FeatureMoon();
+        white.Crescents="Many Craters";
+
 
         
     }
